@@ -30,3 +30,12 @@
 
 - id: empty_search_results_placeholder
   translation: Type something to search..
+
+- id: 404-title
+  translation: Page not found
+
+- id: 404-body
+  translation: The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+
+- id: 404-button
+  translation: Back to Home

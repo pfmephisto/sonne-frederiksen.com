@@ -1,0 +1,41 @@
+- id: home
+  translation: Home
+
+- id: read_more
+  translation: Weiter lesen
+
+- id: send
+  translation: Senden
+
+- id: related_posts
+  translation: Verwandte Artikel
+
+- id: categories
+  translation: Kategorien
+
+- id: tags
+  translation: Tags
+
+- id: toc
+  translation: Inhaltsverzeichnis
+
+- id: share
+  translation: Teilen
+
+- id: search_input_placeholder
+  translation: Suche ...
+
+- id: no_results_for
+  translation: Keine Resultate für
+
+- id: empty_search_results_placeholder
+  translation: Geben Sie etwas zum Suchen ein..
+
+- id: 404-title
+  translation: Seite nicht gefunden
+
+- id: 404-body
+  translation: Die gesuchte Seite wurde möglicherweise entfernt, ihr Name wurde geändert oder sie ist vorübergehend nicht verfügbar.
+
+- id: 404-button
+  translation: Zurück zu Home
