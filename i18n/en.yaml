@@ -39,3 +39,12 @@
 
 - id: 404-button
   translation: Back to Home
+  
+- id: contact-name
+  translation: Full Name
+
+- id: contact-email
+  translation: Working Mail 
+
+- id: contact-body
+  translation: Anything else?
