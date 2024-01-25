@@ -18,7 +18,7 @@ weight = 3
 
 [[main]]
 name = "Möbel"
-url = "elements/"
+url = "furniture/"
 weight = 4
 
 [[main]]
@@ -38,19 +38,8 @@ url = "contact/"
 
 [[main]]
 parent = "Seiten"
-name = "Autoren"
-url = "authors/"
-
-[[main]]
-parent = "Seiten"
 name = "Kategorien"
 url = "categories/"
-
-[[main]]
-parent = "Seiten"
-name = "404 Seite"
-url = "404/"
-
 
 # footer menu
 [[footer]]
