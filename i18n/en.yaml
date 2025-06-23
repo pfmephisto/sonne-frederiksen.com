@@ -1,50 +1,14 @@
-- id: home
-  translation: Home
-
-- id: read_more
-  translation: Read More
-
-- id: send
-  translation: Send
-
-- id: related_posts
-  translation: Related Posts
-
-- id: categories
-  translation: Categories
-
-- id: tags
-  translation: Tags
-
-- id: toc
-  translation: Table of Contents
-
-- id: share
-  translation: Share
-
-- id: search_input_placeholder
-  translation: Search Post ...
-
-- id: no_results_for
-  translation: No results for
-
-- id: empty_search_results_placeholder
-  translation: Type something to search..
-
-- id: 404-title
-  translation: Page not found
-
-- id: 404-body
-  translation: The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
-
-- id: 404-button
-  translation: Back to Home
-  
-- id: contact-name
-  translation: Full Name
-
-- id: contact-email
-  translation: Working Mail 
-
-- id: contact-body
-  translation: Anything else?
+home: Home
+read_more: Read More
+send: Send
+related_posts: Related Posts
+categories: Categories
+tags: Tags
+toc: Table of Contents
+share: Share
+search_input_placeholder: Search Post...
+search_no_results: No results for
+search_initial_message: Type something to search..
+search_navigate: to navigate
+search_select: to select
+search_close: to close
