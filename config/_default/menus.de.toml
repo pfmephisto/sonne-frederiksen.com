@@ -1,0 +1,58 @@
+############# German navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Büro"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Projekte"
+url = "projects/"
+weight = 3
+
+[[main]]
+name = "Möbel"
+url = "furniture/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Seiten"
+hasChildren = true
+
+[[main]]
+parent = "Seiten"
+name = "Blog"
+url = "blog/"
+
+# [[main]]
+# parent = "Seiten"
+# name = "Kontakt"
+# url = "contact/"
+
+[[main]]
+parent = "Seiten"
+name = "Kategorien"
+url = "categories/"
+
+# footer menu
+[[footer]]
+name = "Impressum"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Datenschutz Erklärung"
+url = "privacy-policy/"
+weight = 3
