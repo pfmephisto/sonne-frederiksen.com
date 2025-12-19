@@ -1,5 +1,6 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "Blog"
+meta_title: "Blog - Arbeiten von Filip Sonne-Frederiksen"
+description: "Architekturprojekte und Arbeiten"
+draft: false
 ---

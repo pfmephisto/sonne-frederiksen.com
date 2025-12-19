@@ -1,47 +1,67 @@
 ---
 title: "Datenschutzerklärung"
-# meta title
-meta_title: ""
-# meta description
-description: "Datenschutzerklärung"
-# save as draft
+meta_title: "Datenschutzerklärung"
+description: "Wie Ihre Daten auf dieser Website verarbeitet werden."
 draft: false
 ---
 
+# Datenschutzerklärung
 
+## Verantwortlicher
+Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
-#### Datenschutzerklärung
+**Povl Filip Sonne-Frederiksen**<br>
+**Kopenhagen, Dänemark**<br>
+**E-Mail:** {{< cloakemail address="webmaster@sonne-frederiksen.com" >}}<br>
 
-Google Analytics und Nutzerdaten
+## Hosting
+Diese Website wird über GitHub Pages gehostet. Anbieter ist:
 
-Wir verwenden Google Analytics zum sammeln von nicht personenbezogene Besucherdaten, um Messwerte zu generieren, die zur Verbesserung des Inhalts und zur besseren Organisation von Informationen beitragen. Dazu verwenden wir die anonymisierte Version von Google Analytics (Link), die nur eine Teilmenge der IP-Adresse des Besuchers an Google übermittelt.
+**GitHub, Inc.**<br>
+88 Colin P Kelly Jr St<br>
+San Francisco, CA 94107<br>
+USA<br>
 
-Für weitere Fragen wenden Sie sich bitte an  info(at )sonne-frederiksen.com
+Beim Aufruf der Website erhebt GitHub automatisch Informationen in sogenannten Server-Logfiles, darunter:
+- IP-Adresse
+- Browsertyp und -version
+- Betriebssystem
+- Referrer-URL
+- Uhrzeit der Serveranfrage
 
-Wie alle Analyse-Software verwendet Google Analytics "Cookies", also Textdateien, die auf dem Computer des Benutzers eingefügt werden, um Websites bei der Analyse ihrer Zugriffe zu unterstützen. Durch den Besuch und die Nutzung von sonne-frederiksen.com stimmen Sie zu, dass sowohl sonne-frederiksen.com als auch Google Ihre anonymen Daten sammeln.
+Die Verarbeitung erfolgt zur Gewährleistung eines sicheren und stabilen Betriebs der Website.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse)
 
+Weitere Informationen finden Sie in der [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
+## Kontaktformular
+Wenn Sie mir per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Formular inklusive der von Ihnen dort angegebenen Kontaktdaten gespeichert, um die Anfrage zu bearbeiten und für den Fall von Anschlussfragen.
 
-<!-- #### Responsibility of Contributors
+**Verarbeitete Daten:**
+- Name
+- E-Mail-Adresse
+- Inhalt der Nachricht
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+- **Zweck:** Beantwortung von Anfragen
+- **Rechtsgrundlage:**
+  - Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen)
+  - oder Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Kommunikation)
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Die Daten verbleiben bei mir, bis der Zweck für die Datenspeicherung entfällt oder Sie die Löschung verlangen.
 
-#### Gathering of Personal Information
+## Cookies und Tracking
+Diese Website verwendet Google Analytics, einen Webanalysedienst der Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). Google Analytics verwendet Cookies, um die Nutzung der Website zu analysieren. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+**Zweck:** Analyse des Nutzerverhaltens zur Verbesserung der Website.
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse)
 
-#### Protection of Personal- Information
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. Weitere Informationen finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) und [Google Analytics Opt-Out](https://tools.google.com/dlpage/gaoptout).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
-
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification. -->
+## Ihre Rechte
+Sie haben jederzeit das Recht:
+- Auskunft über Ihre gespeicherten Daten zu erhalten (Art. 15 DSGVO)
+- Berichtigung unrichtiger Daten zu verlangen (Art. 16 DSGVO)
+- Löschung Ihrer Daten zu verlangen (Art. 17 DSGVO)
+- Einschränkung der Verarbeitung zu verlangen (Art. 18 DSGVO)
+- Widerspruch gegen die Verarbeitung einzulegen (Art. 21 DSGVO)
+- Beschwerde bei einer Aufsichtsbehörde einzulegen
