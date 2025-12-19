@@ -1,5 +1,5 @@
 ---
-
+title: "Möbel"
 ---
 # Möbelsammlung
 

@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "PSFF"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -46,7 +46,7 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["blog"]
+include_sections = ["blog", "projects"]
 show_image = true
 show_description = true
 show_tags = true
@@ -62,10 +62,10 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Architecture", "Software Development", "Portfolio", "PhD"]
+description = "Portfolio and blog of Povl Filip Sonne-Frederiksen - Architect & Software Developer"
+author = "Povl Filip Sonne-Frederiksen"
+twitter = ""
 image = "images/og-image.png"
 
 

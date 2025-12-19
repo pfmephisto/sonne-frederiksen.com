@@ -1,9 +1,19 @@
 ---
-title: "Hey, I am Povl Filip Sonne-Frederiksen!" 
-meta_title: "About"
-description: "this is meta description"
+title: "About"
+meta_title: "About Povl Filip Sonne-Frederiksen"
+description: "Background and professional experience"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+## Background
+
+I hold both a Master's and PhD in Architecture from the Aarhus School of Architecture. My academic background has given me a strong foundation in design thinking, spatial analysis, and problem-solving.
+
+Currently, I'm transitioning into software development, as it aligns more closely with my personal interests and allows me to combine my architectural thinking with technical implementation.
+
+## Professional Focus
+
+I'm seeking opportunities in software development where I can apply my unique perspective from architecture to create well-structured, user-centered solutions.
+
+*This page will be updated with more details about my experience and skills.*
