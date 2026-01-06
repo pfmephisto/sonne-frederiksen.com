@@ -10,5 +10,5 @@ banner:
   button:
     enable: false
     label: "View Projects"
-    link: "/projects"
+    link: "/category/projects/"
 ---

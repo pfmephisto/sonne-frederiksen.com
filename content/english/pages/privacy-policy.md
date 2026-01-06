@@ -5,7 +5,8 @@ description: "How your data is handled on this website."
 draft: false
 ---
 
-# Privacy Policy
+{{< toc >}}
+
 
 ## Controller
 The controller responsible for data processing on this website is:

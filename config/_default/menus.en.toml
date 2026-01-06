@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "About"
-url = "/about"
+url = "/authors/povl-filip-sonne-frederiksen"
 weight = 2
 
 [[main]]
@@ -18,7 +18,8 @@ weight = 3
 
 [[main]]
 name = "Projects"
-url = "/projects"
+url = "/categories/projects/"
+#projects"
 weight = 4
 
 [[main]]
@@ -35,12 +36,13 @@ weight = 5
 # footer menu
 [[footer]]
 name = "About"
-url = "/about"
+url = "/authors/povl-filip-sonne-frederiksen"
 weight = 1
 
 [[footer]]
 name = "Projects"
-url = "/projects"
+#url = "/projects"
+url = "/categories/projects/"
 weight = 2
 
 [[footer]]
