@@ -7,35 +7,43 @@ draft: false
 
 ## Education
 
-### PhD in Architecture
 **Aarhus School of Architecture**  
-*[Year - Year]*
+PhD in Architecture *[2021 - 2024]*
 
-*Details to be added*
-
-### Master of Architecture
 **Aarhus School of Architecture**  
-*[Year - Year]*
+Master of Architecture *[2016 - 2018]*
 
-*Details to be added*
+**Leibniz University Hannover**  
+Bachelor of Architecture *[2012 - 2015]*
 
 ## Professional Experience
 
-*To be filled in with your work experience*
+**LINK Arkitektur A/S**, Copenhagen/Denmark.  
+Software Developer *[2025 – Present]*
+
+**LINK Arkitektur A/S**, Copenhagen/Denmark.  
+PhD Fellow *[2021 – 2024]*
+
+**KHR Arkitektur A/S**, Copenhagen/Denmark.  
+Architect *[2019 – 2021]*
+
+**Aarhus School of Architecture**, Aarhus/Denmark.  
+Research Assistant, Robot Lab *[2018 – 2021]*
 
 ## Skills
 
-### Architecture & Design
-- *To be added*
+**Programing languages:**
+C++, C#, python, typescript
 
-### Software Development
-- *To be added*
+**Software & Frameworks:**
+Linux, NixOs, docker
 
-### Languages
-- English
-- German
-- Danish (assumed)
+**frameworks/libraries:**
+OpenCV, CGAL, pyTorch, PCL
 
----
+**Software:**
+Rhino/Grasshopper, Revit 
 
-*This CV is currently being updated. Please check back soon for complete information.*
+**Languages:**
+English, German, Danish, Russian, French (basic)
+
