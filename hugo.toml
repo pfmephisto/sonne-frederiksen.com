@@ -4,7 +4,7 @@ baseURL = "/"
 # Title of your website (required).
 title = "Povl Filip Sonne-Frederiksen"
 # Your theme name
-theme = ["hugo-cloak-email","hugoplate"]
+#theme = ["hugo-cloak-email","hugoplate"]
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Europe/Copenhagen"
 # post excerpt
