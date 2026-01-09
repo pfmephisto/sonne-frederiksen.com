@@ -1,7 +1,7 @@
 ---
 title: Povl Filip Sonne Frederiksen
 #email: 
-image: "/images/avatar-povl-filip-sonne-frederiksen.jpg"
+image: "avatar.jpg"
 description: I'm Povl Filip Sonne Frederiksen, a software developer with a background in architecture.
 social:
   - name: github
