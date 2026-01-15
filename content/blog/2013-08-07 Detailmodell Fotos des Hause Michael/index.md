@@ -7,7 +7,7 @@ image: "imgs/DSC00972.jpg"
 categories: ["Architektur"]
 author: "Niels Sonne-Frederiksen"
 tags: []
-draft: false
+draft: true
 ---
 
 {{< gallery dir="imgs" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

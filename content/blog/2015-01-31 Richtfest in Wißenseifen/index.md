@@ -7,7 +7,7 @@ image: "imgs/DSC04844.jpeg"
 categories: ["News"]
 author: "Niels Sonne-Frederiksen"
 tags: []
-draft: false
+draft: true
 ---
 
 
