@@ -76,17 +76,6 @@ const setupTheme = () => {
   const rootFolder = path.join(__dirname, "../");
 
   if (!fs.existsSync(path.join(rootFolder, "exampleSite"))) {
-    // remove this part if you don't using theme demo as a module
-    [
-      {
-        filepath: path.join(rootFolder, "config/_default/module.toml"),
-        regex: /# \[\[imports\]\]\s*\r?\n# path = "([^"]+)"/,
-      },
-      {
-        filepath: path.join(rootFolder, "hugo.toml"),
-        regex: /^.*theme\s*=\s*("[^"\]]+"|\S+)/m,
-      },
-    ].forEach(toggleComment);
 
     const includesFiles = [
       "go.mod",

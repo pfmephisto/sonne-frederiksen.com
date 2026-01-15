@@ -20,17 +20,16 @@ function determinePaths() {
   } else if (fs.existsSync(rootHugoToml)) {
     // Project setup mode - hugo.toml at root
     try {
-      // const hugoTomlContent = fs.readFileSync(rootHugoToml, "utf8");
-      // const themeNameMatch = hugoTomlContent.match(
-      //   /^theme\s*=\s*["'\[]?"?([^"'\]]+)"?[\]"]?/m,
-      // );
+      const hugoTomlContent = fs.readFileSync(rootHugoToml, "utf8");
+      const themeNameMatch = hugoTomlContent.match(
+        /^theme\s*=\s*["'\[]?"?([^"'\]]+)"?[\]"]?/m,
+      );
 
-      // if (!themeNameMatch || !themeNameMatch[1]) {
-      //   throw new Error("Could not extract theme name from hugo.toml");
-      // }
+      if (!themeNameMatch || !themeNameMatch[1]) {
+        throw new Error("Could not extract theme name from hugo.toml");
+      }
 
-      // const themeName = themeNameMatch[1];
-      const themeName = 'hugoplate';
+      const themeName = themeNameMatch[1];
       return {
         hugoTomlPath: rootHugoToml,
         themePath: path.join(__dirname, "../data/theme.json"),

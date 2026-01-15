@@ -79,20 +79,6 @@ const iterateFilesAndFolders = (rootFolder, { destinationRoot }) => {
 const setupProject = () => {
   const rootFolder = path.join(__dirname, "../");
   if (!fs.existsSync(path.join(rootFolder, "themes"))) {
-    // remove this part if you don't using theme demo as a module
-    [
-      {
-        filepath: path.join(rootFolder, "exampleSite/hugo.toml"),
-        regex: /^.*theme\s*=\s*("[^"\]]+"|\S+)/m,
-      },
-      {
-        filepath: path.join(
-          rootFolder,
-          "exampleSite/config/_default/module.toml",
-        ),
-        regex: /\[\[imports\]\]\s*\r?\npath = "([^"]+)"/,
-      },
-    ].forEach(toggleComment);
 
     const folderList = ["layouts", "assets", "static", "tailwind-plugin"];
     const folderName = getFolderName(rootFolder);
