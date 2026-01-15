@@ -3,8 +3,6 @@ module hugoplate.netlify.app
 go 1.21
 
 require (
-	github.com/zeon-studio/hugoplate v0.0.0-20260109102327-0ff47b999cc2 // indirect
-	github.com/martignoni/hugo-cloak-email v0.0.0-20240919153706-226f4d1891b9 // indirect
 	github.com/gethugothemes/hugo-modules/accordion v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/adsense v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/components/announcement v0.0.0-20260106053822-13607459af90 // indirect
@@ -24,10 +22,12 @@ require (
 	github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/seo-tools/site-verifications v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/button v0.0.0-20260106053822-13607459af90 // indirect
+	github.com/gethugothemes/hugo-modules/shortcodes/mermaid v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/notice v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/tab v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/table-of-contents v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20260106053822-13607459af90 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
-
+	github.com/martignoni/hugo-cloak-email v0.0.0-20240919153706-226f4d1891b9 // indirect
+	github.com/zeon-studio/hugoplate v0.0.0-20260109102327-0ff47b999cc2 // indirect
 )

@@ -3,5 +3,4 @@
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content"
-weight = 2
-
+weight = 1
