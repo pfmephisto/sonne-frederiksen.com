@@ -8,6 +8,6 @@ draft: false
 
 Der Waldorfkindergarten in Leer (Ostfriesland) entstand 2004 auf dem Blumengärtnereigelände PAGELS,
 
-als erste Schritt in eine stufenweise Funktionstransformation von pflanzliche ins menschlich-pädagogische "Veredelung".
+als erster Schritt in eine stufenweise Funktionstransformation von pflanzlicher ins menschlich-pädagogische "Veredelung".
 
 {{< gallery dir="imgs" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

@@ -10,6 +10,6 @@ Zusammenarbeit mit dem Architekten Jan Arve Andersen, Norwegen. 2008 fertiggeste
 
 Das auf Schwerkraftlüftung angelegte Lüftungssystem besteht aus: Zuluftshaus im Garten mit Kanalgang zum Haupthaus,
 
-Installationsgang längsgehend mitten unter dem Bau, aufgehende Doppelwand für die Luftführung aus ungebrennte Lehmsteine, Verteilung in den Räumen, Abluft über steuerbare Fensteröffnungen in Lanterninschächten über Dach.
+Installationsgang längsgehend mitten unter dem Bau, aufgehende Doppelwand für die Luftführung aus ungebrannte Lehmsteine, Verteilung in den Räumen, Abluft über steuerbare Fensteröffnungen in Lanterninschächten über Dach.
 
 {{< gallery dir="imgs" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

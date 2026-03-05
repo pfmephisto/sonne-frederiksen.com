@@ -6,7 +6,7 @@ image: "/images/projects/Freie\ Waldorfschule\ Kiel/2010_0919_Presentation-39.jp
 draft: false
 ---
 
-Eurythmie- und Musikbau mit ein gemischtes Minimalprogramm für den Ausbau zur Zweizügigkeit.
+Eurythmie- und Musikbau mit einem gemischten Minimalprogramm für den Ausbau zur Zweizügigkeit.
 
 1995 fertiggestellt.
 

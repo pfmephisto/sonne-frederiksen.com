@@ -20,9 +20,9 @@ social:
 ###### Background
 
 I hold both a Master's and PhD in Architecture from the Aarhus School of Architecture. My academic background has given me a strong foundation in design thinking, spatial analysis, and problem-solving.
-While my degrees are in architecture, my professional journey has led me to software development, where I have found a passion for coding and creating digital solutions. Starting with visual programming in Grasshopper I quickly started writing scripts in Python and then developing a robot programming pluging for Grasshopper using C#. Since then, the focus of my PhD thesis has been on processing LiDAR data of indoor environments for semantic understanding and 3D construction of simplified building surface models for CAD/BIM applications.
+While my degrees are in architecture, my professional journey has led me to software development, where I have found a passion for coding and creating digital solutions. Starting with visual programming in Grasshopper I quickly started writing scripts in Python and then developing a robot programming plugin for Grasshopper using C#. Since then, the focus of my PhD thesis has been on processing LiDAR data of indoor environments for semantic understanding and 3D construction of simplified building surface models for CAD/BIM applications.
 
-In my spare time I have developed a passion for Linux and open source software. I maintain a home server running various services using NixOS when I strive for digital sovereignty and experiment with different technologies.
+In my spare time I have developed a passion for Linux and open source software. I maintain a home server running various services using NixOS where I strive for digital sovereignty and experiment with different technologies.
 
 ###### Professional Focus
 
