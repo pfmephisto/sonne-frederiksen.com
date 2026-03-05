@@ -10,7 +10,7 @@ tags: [""]
 draft: false
 ---
 
-This is a robot control plugin for Rhinoceros 3D/Grasshopper that allows users to define and manipulate robot toolpaths right from with in the design and modeling environment.
+This is a robot control plugin for Rhinoceros 3D/Grasshopper that allows users to define and manipulate robot toolpaths right from within the design and modeling environment.
 
 
 <hr>

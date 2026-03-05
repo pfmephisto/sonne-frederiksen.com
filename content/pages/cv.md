@@ -32,7 +32,7 @@ Research Assistant, Robot Lab *[2018 – 2021]*
 
 ## Skills
 
-**Programing languages:**
+**Programming languages:**
 C++, C#, python, typescript
 
 **Software & Frameworks:**

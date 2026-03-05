@@ -6,7 +6,7 @@ image: "/images/projects/Kindergarten\ in\ Fredrikstad\ Norwegien/2010_0919_Pres
 draft: false
 ---
 
-Eine schützende Masivmauer zur Straße als hüllende geste. Übrige Wände aus holzverkleidete Ständerwerk.
+Eine schützende Massivmauer zur Straße als hüllende Geste. Übrige Wände aus holzverkleidete Ständerwerk.
 
 Sich öffnend gegen Süd-Osten.
 
