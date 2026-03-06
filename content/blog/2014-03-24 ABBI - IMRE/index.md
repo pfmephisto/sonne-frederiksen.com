@@ -21,7 +21,7 @@ Begegnungen zweier Architekten, die sich beide als organische Architekten in ein
 
  
 
-Imre sprach nur ungarisch und Abbi am ehesten ein ver-schwedischtes Dänisch.    Äusserlich war also keine direkte Verständigungsmöglichkeit ausser durch Mimik und GestIk möglich. 
+Imre sprach nur ungarisch und Abbi am ehesten ein ver-schwedischtes Dänisch.    Äusserlich war also keine direkte Verständigungsmöglichkeit ausser durch Mimik und Gestik möglich. 
 
 Trotzdem kam es zu Begegnungen und Auseinandersetzungen die von Bedeutung waren, sind und sein werden. Dies lag und liegt auch an uns. Es lag daran, dass über die Sprachen ihrer jeweiligen Bauten eine Begegnung und Verständigung möglich ist, möglich wird.
 
@@ -117,7 +117,7 @@ An vielen kleinen Einzelheiten waren von Anfang an und immer wieder im Prozess d
 
  
 
-Imre hatte eine steile und junge Kariere hinter sich.  Abbi dagegen eine ziemlich spät begindende. Erst mit 50 Jahren konnte er sein eigenes Büro gründen und eigene Projekte annehmen.  -
+Imre hatte eine steile und junge Karriere hinter sich.  Abbi dagegen eine ziemlich spät beginnende. Erst mit 50 Jahren konnte er sein eigenes Büro gründen und eigene Projekte annehmen.
 
 Imres Bauten sind wie große „Ohren“, die lauschend auf die Erde gerichtet sind, mit denen man hören können soll, was am Ort in der Vergangenheit geschehen ist, wie Imre es selber zum Ausdruck gebracht hat.
 
@@ -239,13 +239,13 @@ Abbi als Architekt war Meister der Gefühlswahrnehmungen, der gestalterischen Um
 
    zusammengebracht, sondern auch die Baufirmen, Handwerker und Baumaterialien.
 
-Er repräsentierte den Willen in dem Dreierkonstellation. Ohne ih wären keine Bauten in  Järna gebaut worden.
+Er repräsentierte den Willen in dem Dreierkonstellation. Ohne ihn wären keine Bauten in  Järna gebaut worden.
 
 Zusammen bildeten sie einen Organismus für das Bauen am Ort
 
 Kraft dieser Dreigliederung, bei der die Seelenfähigkeiten Denken, Fühlen und Wollen, gewissermassen voneinander getrennt waren, konnte deren Veredelung  in Richtung: das Wahre, das Schöne und  das Gute am besten gelingen.
 
-Diese Dreigliederung war keine kammeradschaftliche Beziehung, sondern eine karmische.
+Diese Dreigliederung war keine kameradschaftliche Beziehung, sondern eine karmische.
 
 Wer es erlebt hat, konnte den Eindruck haben, dass diese Konstellation ein Zukünftiges darstellt. Man kann Ähnliches hier und da als Phänomen erleben, immer mit einem segnenden Gelingen einhergehend.
 
@@ -259,7 +259,7 @@ Wenn ich versuche, dieses dagegen bei Imre zu charakterisieren, würde ich sagen
 
 Mit den beiden, Abbi und Imre zusammen, haben wir das Yin und Yang, haben wir die Andeutung von einem Ganzen, das in Kurzform wie folgt beschrieben werden kann:
 
-Abbi arbeitete vom Raumprogramm ausgehend, hat die geforderten Flchen aus Papier ausgeschnitten und aufgeklebt, eine erste grobe Skizze gemacht, dann das Blatt nummeriert (1.) und zur Seite gelegt. Weiter von vorne angefangen, eine bessere Funktionsanalyse, Neues probiert, 2. Blatt, und zur Seite gelegt u.s.w. Wie eine Pflanze ihre Blätter heraussetzt, das eine nach dem anderen entlang der Stängel von unten sich nach oben arbeitend.
+Abbi arbeitete vom Raumprogramm ausgehend, hat die geforderten Flächen aus Papier ausgeschnitten und aufgeklebt, eine erste grobe Skizze gemacht, dann das Blatt nummeriert (1.) und zur Seite gelegt. Weiter von vorne angefangen, eine bessere Funktionsanalyse, Neues probiert, 2. Blatt, und zur Seite gelegt u.s.w. Wie eine Pflanze ihre Blätter heraussetzt, das eine nach dem anderen entlang der Stängel von unten sich nach oben arbeitend.
 
 So war auch Abbis Art zu schaffen. Man konnte verfolgen wie es erst reicher, komplexer wurde, dann wieder einfacher, um zum Schluss poetischer zu werden , erlöst von der Schwere der alltäglichen Funktionen. Wie die Blume, die sich förmlich in die Luft erhebt und ihren Duft verströmt - ein Frühjahrsprozess.
 

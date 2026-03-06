@@ -10,4 +10,4 @@ tags: [""]
 draft: true
 ---
 
-SpeckleLCA is a tool for lifecycle assessment (LCA) of early phase design projects. It's aim is to facilitate LCA cautions early on, allowing for easy adaptation and comparison between design options. As web app it builds on top of Speckle enabling the integration of a broad spectrum of design and planning applications.
+SpeckleLCA is a tool for lifecycle assessment (LCA) of early phase design projects. Its aim is to facilitate LCA calculations early on, allowing for easy adaptation and comparison between design options. As web app it builds on top of Speckle enabling the integration of a broad spectrum of design and planning applications.

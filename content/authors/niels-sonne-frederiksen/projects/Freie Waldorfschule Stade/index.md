@@ -6,8 +6,8 @@ image: "/images/projects/Freie\ Waldorfschule\ Stade/2010_0919_Presentation-45.j
 draft: false
 ---
 
-In das Ensemble der ehemalige Von Goeben-Kasserne hier ein neuen Unterstufentrakt als Bindeglied.
+In das Ensemble der ehemaligen Von-Goeben-Kaserne hier einen neuen Unterstufentrakt als Bindeglied.
 
-Dies als Ergebnis wo erst ein totaler Neubau zu Rede stand.
+Dies als Ergebnis, wo zuvor ein totaler Neubau zur Rede stand.
 
 {{< gallery dir="imgs" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
