@@ -6,7 +6,7 @@ image: "/images/projects/Rudolf\ Steiner\ Schule\ Duesseldorf/2010_0919_Presenta
 draft: false
 ---
 
-Ab 1982 in 9 Bauabschnitten gebaut. - Eine 1-zügige Waldorfschule als aufgelockerte Dorfstruktur um einen Teich und Biotop. Das Haus an See in der Mitte beinhaltet: Biologie, Musik, Eurythmie und Zeichnen. - Sowohl naturwissenschaftliche wie auch künstlerische Fächer.
+Ab 1982 in 9 Bauabschnitten gebaut. Eine 1-zügige Waldorfschule als aufgelockerte Dorfstruktur um einen Teich und Biotop. Das Haus am See in der Mitte beinhaltet: Biologie, Musik, Eurythmie und Zeichnen. Sowohl naturwissenschaftliche wie auch künstlerische Fächer.
 
 Die Aula als letzte und abrundende Projekt, wurde 2002 fertiggestellt.
 

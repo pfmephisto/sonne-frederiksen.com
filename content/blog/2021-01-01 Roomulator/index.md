@@ -12,5 +12,5 @@ draft: true
 
 Created components for an in-house Grasshopper plugin
 supporting early-phase design, enabling room program
-structuring, property visualization, and design compli-
-ance quality assurance.
+structuring, property visualization, and design compliance
+quality assurance.
