@@ -1,5 +1,5 @@
 ---
-title: Povl Filip Sonne Frederiksen
+title: Povl Filip Sonne-Frederiksen
 #email: 
 image: "avatar.jpg"
 description: I'm Povl Filip Sonne Frederiksen, a software developer with a background in architecture.

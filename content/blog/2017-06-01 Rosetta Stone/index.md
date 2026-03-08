@@ -3,7 +3,7 @@ title: "Rosetta Stone"
 meta_title: "Rosetta Stone"
 description: "A multi stage mapping exercise of Anholt island, culminating in a milled representation."
 date: 2017-06-01
-image: "/images/image-placeholder.png"
+image: DSC03675.jpg
 categories: ["Projects"]
 author: "Povl Filip Sonne-Frederiksen"
 tags: [""]
