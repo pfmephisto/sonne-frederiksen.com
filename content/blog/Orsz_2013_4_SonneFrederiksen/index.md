@@ -101,7 +101,7 @@ Ezt látva Abbira gondoltam. Neki is volt egyfajta vonalvezetése,
 amit csodáltam, de ez inkább vizsgálódó, tapogatózó volt.
 Másik kezében mindig készen állt a radír. Egy idő után Imre asztalára felszelt
 kenyér, paradicsom, kávé és tea került – akár egy pikniken. Az est folyamán a
-beszélgetés az organikus építészetre terelődött. Imre nem tetszésének adott
+beszélgetés az organikus építészetre terelődött. Imre nemtetszésének adott
 hangot sok mindennel kapcsolatban, ami az antropozófus organikus 
 építészet területén akkoriban tapasztalható volt. Három személyről azonban 
 teljes tisztelettel szólt: Joseph Beuys, Arne Klinborg és Erik Asmussen. 
@@ -118,7 +118,7 @@ Egy langyos nyárvégi estén, késői búcsúnk alkalmával megkérdeztem
 Imrét, hogy beszámolhatok-e Arnénak és Abbinak a beszélgetéseinkről. Rám
 pillantott, vállamra tette a kezét és azt mondta: „Jól csinálsz mindent”. Tehát,
 tulajdonképpen nem adott választ a kérdésemre, de mondott valami alapvetőt: 
-„Higgy magadban! Hagyd kibontakozni azt, ami bennedél, az lesz a helyes út!” 
+„Higgy magadban! Hagyd kibontakozni azt, ami benned él, az lesz a helyes út!” 
 Ez lenne a mester tanácsa a beavatás útján? Ebben a helyzetben számomra ez egy meghatározó kijelentés volt.
 Abbira gondoltam, és az ő merőben ellentétes felfogására. Egész életében
 a kétkedés volt a vezérelve. Nem csupán akkor volt nála a radír, amikor rajzolt.
@@ -133,7 +133,7 @@ néhány Makovecz-épületet. Ekkor merült föl bennünk a gondolat, hogy a kö
 évben Magyarországon szervezzük meg a nemzetközi vándorkonferenciát. 
 (Nemzetközi antropozófus vándorkonferencia – szerk.) A döntéssel, majd a 
 konferencia előkészítésével új fejezet kezdődött a két ellentétes felfogású 
-építész, illetve irodáik közötti kapcsolatban. Egy vasfüggö nyön túlnyúló 
+építész, illetve irodáik közötti kapcsolatban. Egy vasfüggönyön túlnyúló 
 szabad kezdeményezésről volt szó. Az, hogy Magyarország néhány évvel később 
 kulcsszerepet játszik majd a berlini fal leomlásában, akkoriban meg sem fordult 
 a fejünkben, esetleg csak magyar barátaink fejében. Lelkesített a gondolat, hogy
@@ -192,7 +192,7 @@ hazajártak aludni Budapestre. A találkozás Imre Magyarországon megépült
 munkáival, a hagyományos mestermunka, a kultúrházak körüli helyi társadalmi és 
 politikai viszonyok, a fantasztikus faszerkezetek, az a tény, hogy mindehhez 
 olyan kevés modellt építettek (Asmussen irodájának tervezői metódusában a 
-modellezés, 1:500 tól haladva az 1:1-ig, alapvető munkamódszer – szerk.), az 
+modellezés, 1:500-tól haladva az 1:1-ig, alapvető munkamódszer – szerk.), az 
 erőteljes megformálás stb. nagy hatással voltak ránk. Különösnek találtuk, hogy 
 Abbi és Imre, akiknek oly sok kapcsolódási pontjuk van az antropozófiában, 
 végül ennyire különböző eredményre jutottak.
@@ -235,7 +235,7 @@ fűződő baráti kapcsolatainak. A béke helyszíneire érkeztünk. Sokat besz�
 Írtunk egy felhívást annak a hivatalnak, amelyik nem a tervezői szemléletnek 
 megfelelően kezelt egy építkezést. Lars Danielsson fogalmazta meg a levelet és 
 mindannyian aláírtuk. Visegrádon megtapasztalhattuk a minden évben megtartott 
-tábor(Visegrádi építésztáborok 1981-2001 – szerk.) és a gyakorlás erejének 
+tábor (Visegrádi építésztáborok 1981-2001 – szerk.) és a gyakorlás erejének 
 lenyűgöző hatását. Järnában a nemzetközi építészkonferenciák és a szokásos 
 szemináriumok alakították a miliőt. Visegrádon olyan munka- és oktatási 
 módszerrel találkoztunk, amely nagy benyomást tett ránk: fiatal építészek, 
