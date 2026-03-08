@@ -1,0 +1,46 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+
+  <section class="section">
+    <div class="container">
+
+      {{ $projects := where site.RegularPages "Params.categories" "intersect" (slice "Projects") }}
+      {{ $projects = $projects.ByDate.Reverse }}
+
+      <div class="row justify-center">
+        <div class="lg:col-10">
+          {{ range $projects }}
+            <div class="row items-start mb-14 pb-14 border-b border-border dark:border-darkmode-border last:border-0 last:mb-0 last:pb-0">
+
+              <!-- image -->
+              {{ $image := .Params.image }}
+              {{ if $image }}
+                <div class="md:col-5 mb-6 md:mb-0">
+                  <a href="{{ .RelPermalink }}">
+                    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full rounded") }}
+                  </a>
+                </div>
+              {{ end }}
+
+              <!-- title + date + description -->
+              <div class="{{ if $image }}md:col-7{{ else }}col-12{{ end }}">
+                <h2 class="h4 mb-1">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h2>
+                <p class="text-sm opacity-75 mb-3">{{ .Date.Format "January 2, 2006" }}</p>
+                {{ with .Summary }}
+                  <p class="text-text dark:text-darkmode-text">{{ . | plainify }}</p>
+                  {{ end }}
+                <!--<a class="btn btn-outline-primary btn-sm mt-4" href="{{ .RelPermalink }}">
+                  {{ T "read_more" | default "Read More" }}</a>-->
+              </div>
+
+            </div>
+          {{ end }}
+        </div>
+      </div>
+
+    </div>
+  </section>
+{{ end }}
