@@ -2,7 +2,7 @@
 title: "Defining Inhabitable Space through Form-Generation driven by Complex Wood Joinery"
 meta_title: "Defining Inhabitable Space through Form-Generation driven by Complex Wood Joinery"
 description: "This thesis exploring the development of a structural spatial system that combines aesthetic values and structural principles through iterative study and complex wood joinery."
-image: "/images/image-placeholder.png"
+image: DSC00087-1500x997.jpg
 categories: ["Projects"]
 date: 2018-06-01
 author: "Povl Filip Sonne-Frederiksen"
