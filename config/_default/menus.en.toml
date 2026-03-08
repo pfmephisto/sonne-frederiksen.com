@@ -11,10 +11,6 @@ name = "About"
 url = "/authors/povl-filip-sonne-frederiksen"
 weight = 2
 
-[[main]]
-name = "CV"
-url = "/cv"
-weight = 3
 
 [[main]]
 name = "Projects"

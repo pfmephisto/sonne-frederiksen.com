@@ -71,7 +71,3 @@ His buildings create environments where children can develop as "full members of
 
 "When you see that everyone is happy, you understand that it was worth creating the project," Niels reflects. "And this gives strength to continue working."
 
----
-
-*For more information about specific projects, explore the [Projects](/projects) section.*
-

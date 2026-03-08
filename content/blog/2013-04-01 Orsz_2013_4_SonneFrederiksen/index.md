@@ -3,11 +3,11 @@ title: "Száz éve született"
 meta_title: ""
 description: ""
 date: 2013-04-01T00:00:00+01:00
-#image: "000.png"
+image: "000.png"
 categories: ["Article"]
 author: "Niels Sonne-Frederiksen"
 tags: []
-draft: true
+draft: false
 ---
 # SZÁZ ÉVE SZÜLETETT 
 ## ERIK ASMUSSEN ERIK ASMUSSEN (1913-1998) és MAKOVECZ IMRE (1935-2011)
@@ -19,8 +19,7 @@ Gondolatok két organikus építész találkozásáról, akik mindketten bizonyo
 szempontból egymás ellentétei. Ennek a figyelemre méltó polaritásnak  a 
 felismerése és megértése jelenünk, és jövőnk szempontjából elengedhetetlen.
 
-
-![](./000.png "Makovecz Imre, Erik Asmussen és Niels Sonne-Frederiksen Visegrádon, 1987 (Gerle János felvétele)")
+{{< image src="000.png" caption="Makovecz Imre, Erik Asmussen és Niels Sonne-Frederiksen Visegrádon, 1987 (Gerle János felvétele)" alt="Makovecz Imre, Erik Asmussen és Niels Sonne-Frederiksen Visegrádon, 1987 (Gerle János felvétele)" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Makovecz Imre, Erik Asmussen" webp="false" >}}
 
 Makovecz Imre csak magyarul, Erik Asmussen – Abbi – pedig egy különleges,
 svéddel kevert dán nyelven beszélt. Látszólag a mimikán, és a gesztusokon kívül 
@@ -140,9 +139,9 @@ a fejünkben, esetleg csak magyar barátaink fejében. Lelkesített a gondolat, 
 az adott helyzetben minden tőlünk telhetőt megteszünk. Éreztük, hogy ez egy 
 olyan lehetőség, amit meg kell ragadnunk, ez fűtötte találkozásainkat.
 
-![](./001.png "Erik Asmussen Kultúrház, Rudolf Steiner szeminárium; főépület, előcsarnok és színházterem, Järna, 1992, fotó: Tóth Márton felvételei)")
-![](./002.png "")
-![](./003.png "")
+
+{{< gallery dir="gallery_1" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+Erik Asmussen Kultúrház, Rudolf Steiner szeminárium; főépület, előcsarnok és színházterem, Järna, 1992, fotó: Tóth Márton felvételei)
 
 Termékeny találkozás volt ez, néhány nehéz helyzettel tarkítva. Talán az volt a 
 tudat alatt Stockholmban kezdődött minden, amikor Imre bemutatta filmjét a 
@@ -224,9 +223,8 @@ alá kerültünk. Valószínűleg mindkét fél ugyanezt érezte, mert mindenkit
 jószándék vezérelt. Olyan találkozás volt ez, ami csak évekkel, évtizedekkel
 később hozta meg gyümölcsét, egy megvilágosító felismerés formájában.
 
-![](./004.png "Makovecz Imre: Piliscsaba, Stephaneum, nagyelőadó; előcsarnok 2001 (Dénes György felvételei)")
-![](./005.png "")
-![](./006.png "")
+{{< gallery dir="gallery_2" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+Makovecz Imre: Piliscsaba, Stephaneum, nagyelőadó; előcsarnok 2001 (Dénes György felvételei)
 
 Kik voltunk mi? Ki volt Abbi és ki volt Imre? Kik vagyunk mi, akik 
 kettejükkel egy úton járhattunk? Az utazás folytatódott. Imre nem magyarázta a 
@@ -374,13 +372,14 @@ functions, while Imre approaches from above and moves downward, applying the
 motifs of the spiritual world to earthly structures and materials. Their 
 collaboration forms a dialog between heaven and earth, spirit and matter.”
 
-![](./007.png "Asmussen munka közben (Salamin Ferenc felvétele)")
+{{< image src="007.png" caption="Asmussen munka közben (Salamin Ferenc felvétele)" alt="Asmussen munka közben (Salamin Ferenc felvétele)" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="true" >}}
 
 # NIELS SONNE-FREDERIKSEN
 
-![](./014.png "Niels Sonne-Frederiksen")
+{{< image src="014.png" caption="Niels Sonne-Frederiksen" alt="Niels Sonne-Frederiksen" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="true" >}}
 
-![](./008.png "Itt és lent: kétcsoportos óvoda, Frederikstadt, Norvégia 1991, J. A. Andersennel")
+
+{{< image src="008.png" caption="Itt és lent: kétcsoportos óvoda, Frederikstadt, Norvégia 1991, J. A. Andersennel" alt="Itt és lent: kétcsoportos óvoda, Frederikstadt, Norvégia 1991, J. A. Andersennel" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="true" >}}
 
 1946-ban született Dániában. Tanulmányait a Koppenhágai Művészeti
 Akadémián végezte • 1979-1993 Erik Asmussen építésziroda, Järna; munkatárs, majd vezető tervező • 1993 Hannoverben önálló irodát alapít Maria
@@ -421,15 +420,15 @@ hatalmas szeretettel kell megépíteni.
 _Részlet Olga Gladush interjújából, Gaál Xénia fordítása. 
 A fotókat az építész bocsátotta rendelkezésünkre._
 
+{{< gallery dir="gallery_3" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+Fent: Rudolf Steiner Iskola, Düsseldorf, 1995 • lent: Waldorf óvoda, As, Norvégia, J. A. Adersennel, 2008
 
-![](./012.png "")
-![](./011.png "")
-![](./009.png "Fent: Rudolf Steiner Iskola, Düsseldorf, 1995 • lent: Waldorf óvoda, As, Norvégia, J. A. Adersennel, 2008")
-![](./010.png "")
+{{< gallery dir="gallery_4" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
-![](./013.png "")
 
 Danish architect Niels Sonne-Frederiksen started his career in the architectural
 office of Eric Asmussen in Järna. Among others, he was the leading designer in
 a series of projects aimed at building schools and nurseries, gaining him a 
 reputation in designing educational institutions. His architectural credo was influenced by Asmussen, Imre Makovecz and Rudolf Steiner.
+
+{{< button label="PDF" link="Orsz_2013_4_SonneFrederiksen.pdf" style="solid" >}}
