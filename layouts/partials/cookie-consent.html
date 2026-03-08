@@ -1,0 +1,118 @@
+<!-- cookie -->
+{{ with site.Params.cookies }}
+  {{ if .enable }}
+    <div id="cookie-box" class="cookie-box cookie-box-hide">
+      {{ .content | markdownify }}
+
+      <!-- cookie category checkboxes -->
+      <div class="cookie-options">
+        <label class="cookie-option cookie-option-disabled">
+          <input type="checkbox" checked disabled>
+          {{ default "Necessary cookies" .label_necessary }}
+        </label>
+        <label class="cookie-option">
+          <input type="checkbox" id="cookie-analytics">
+          {{ default "Analytics cookies" .label_analytics }}
+        </label>
+        <label class="cookie-option">
+          <input type="checkbox" id="cookie-advertising">
+          {{ default "Advertising cookies" .label_advertising }}
+        </label>
+      </div>
+
+      <div class="cookie-buttons">
+        <button id="cookie-accept-all" class="cookie-box-button btn btn-sm btn-outline-primary">
+          {{ default "Accept All" .button_accept_all }}
+        </button>
+        <button id="cookie-accept-selection" class="cookie-box-button btn btn-sm btn-outline-secondary">
+          {{ default "Accept Selection" .button_accept_selection }}
+        </button>
+      </div>
+    </div>
+
+    <!-- cookie script -->
+    <script type="application/javascript">
+      (function () {
+        var cookieBox = document.getElementById('cookie-box');
+        var btnAll = document.getElementById('cookie-accept-all');
+        var btnSelection = document.getElementById('cookie-accept-selection');
+        var chkAnalytics = document.getElementById('cookie-analytics');
+        var chkAdvertising = document.getElementById('cookie-advertising');
+
+        function saveConsent(analytics, advertising) {
+          var value = JSON.stringify({ analytics: analytics, advertising: advertising });
+          Cookies.set('cookie-consent', value, { expires: {{ .expire_days }} });
+          cookieBox.classList.add('cookie-box-hide');
+          if (window.gtag) {
+            gtag('consent', 'update', {
+              'ad_storage':          advertising ? 'granted' : 'denied',
+              'ad_user_data':        advertising ? 'granted' : 'denied',
+              'ad_personalization':  advertising ? 'granted' : 'denied',
+              'analytics_storage':   analytics   ? 'granted' : 'denied'
+            });
+          }
+        }
+
+        if (!Cookies.get('cookie-consent')) {
+          cookieBox.classList.remove('cookie-box-hide');
+        }
+
+        btnAll.onclick = function () {
+          saveConsent(true, true);
+        };
+
+        btnSelection.onclick = function () {
+          saveConsent(chkAnalytics.checked, chkAdvertising.checked);
+        };
+      })();
+    </script>
+
+    <!-- cookie style -->
+    <style>
+      .cookie-box {
+        position: fixed;
+        left: 2rem;
+        bottom: 2rem;
+        z-index: 9999;
+        padding: 1.5rem;
+        background-color: #fff;
+        max-width: calc(100% - 4rem);
+        width: 25rem;
+        box-shadow: 1px 0px 10px 7px rgba(154, 154, 154, 0.11);
+        border-radius: inherit;
+      }
+      .cookie-box-hide {
+        display: none;
+      }
+      .cookie-options {
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .cookie-option {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        cursor: pointer;
+        font-size: 0.875rem;
+      }
+      .cookie-option-disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+      .cookie-buttons {
+        display: flex;
+        gap: 0.5rem;
+        margin-top: 1rem;
+        flex-wrap: wrap;
+      }
+      .cookie-box-button {
+        flex: 1;
+      }
+      .dark .cookie-box {
+        background-color: #222;
+      }
+    </style>
+  {{ end }}
+{{ end }}

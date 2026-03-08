@@ -25,7 +25,7 @@ contact_form_action = "#" # contact form works with [https://airform.io/] or [ht
 google_tag_manager = "GTM-57NSSFRS" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = "<script type=\"text/javascript\" src=\"./cookie-consent.js\"></script>"
+custom_script = ""
 # copyright
 copyright = "[Povl Filip Sonne-Frederiksen](https://github.com/pfmephisto)"
 
@@ -84,7 +84,11 @@ mastodon = "" # Your verification code
 enable = true
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+button_accept_all = "Accept All"
+button_accept_selection = "Accept Selection"
+label_necessary = "Necessary cookies"
+label_analytics = "Analytics cookies"
+label_advertising = "Advertising cookies"
 
 # diagrams
 [mermaid]
