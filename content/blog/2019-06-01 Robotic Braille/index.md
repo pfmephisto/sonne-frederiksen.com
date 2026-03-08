@@ -3,7 +3,7 @@ title: "Robotic Braille"
 meta_title: ""
 description: ""
 date: 2019-06-01
-image: "/images/image-placeholder.png"
+image: ReadingwithyourHands.png
 categories: ["Projects"]
 author: "Povl Filip Sonne-Frederiksen"
 tags: [""]

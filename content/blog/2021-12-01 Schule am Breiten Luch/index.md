@@ -1,9 +1,9 @@
 ---
-title: "Title"
+title: "The School am Breiten Luch"
 meta_title: ""
 description: ""
 date: 2021-12-01
-image: "/images/image-placeholder.png"
+image: am-breiten-luch-skolearkitektur-rendering-768x591.jpg
 categories: ["Projects"]
 author: "Povl Filip Sonne-Frederiksen"
 tags: [""]

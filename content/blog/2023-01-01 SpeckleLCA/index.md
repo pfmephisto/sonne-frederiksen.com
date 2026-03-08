@@ -1,9 +1,9 @@
 ---
-title: "Title"
+title: "SpeckleLCA"
 meta_title: ""
 description: ""
 date: 2023-01-01
-image: "/images/image-placeholder.png"
+image: SpeckleLCA.png
 categories: ["Projects"]
 author: "Povl Filip Sonne-Frederiksen"
 tags: [""]
