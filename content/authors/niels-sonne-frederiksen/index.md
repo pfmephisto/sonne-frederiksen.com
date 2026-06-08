@@ -1,7 +1,7 @@
 ---
 title: Niels Sonne-Frederiksen
 #email: 
-image: "/images/avatar.png"
+image: "avatar.png"
 description: Danish architect specializing in organic architecture for Waldorf schools and kindergartens across Europe.
 ---
 
